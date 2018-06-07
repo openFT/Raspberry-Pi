@@ -1,0 +1,17 @@
+Meeting - Wednesday
+Date    - 06/06/2018
+
+Presenter :
+          V Marimuthu
+          S Sankaranarayanan  
+          V Sundar
+Agenda:
+        1. Shared hardware specifications in Raspberry Pi Zero W - Sankar
+
+Action Item:
+        1. How to install raspbian on the SD card without using display connected to the board - Sankar
+        2. Find any document or link for above tasks - Sundar
+        3. Share information about the above task once it done on Sat session - Sankar
+        4. Share information about the same for Raspberry Pi 3 B on Sat session - Venkat
+        5. Share information about how to blink LED using code on Raspbian on Sat session - Venkat
+        6. Study about the schematics and basic internals of the board and explain once it completed - Sundar
